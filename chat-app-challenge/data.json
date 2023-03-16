@@ -1,0 +1,57 @@
+[
+  {
+    "id": "chat#1",
+    "user": {
+      "firstName": "Luke",
+      "lastName": "Skywalker",
+      "id": "lk1"
+    },
+    "messages": [
+      {
+        "createdAt": "2022-01-01",
+        "content": "Hey how are you?",
+        "authorId": "lk1"
+      },
+      {
+        "createdAt": "2022-01-02",
+        "content": "Good How are you?",
+        "authorId": "user"
+      },
+      {
+        "createdAt": "2022-01-03",
+        "content": "May the force be with you",
+        "authorId": "lk1"
+      }
+    ]
+  },
+  {
+    "id": "chat#2",
+    "user": {
+      "firstName": "Leia",
+      "lastName": "Organa",
+      "id": "lo1"
+    },
+    "messages": [
+      {
+        "createdAt": "2023-01-01",
+        "content": "For the republic!",
+        "authorId": "lo1"
+      }
+    ]
+  },
+  {
+    "id": "chat#3",
+    "user": {
+      "firstName": "Obi-Wan",
+      "lastName": "Kenobi",
+      "id": "owk1"
+    },
+    "messages": [
+      {
+        "createdAt": "2022-01-01",
+        "content": "Hello there!",
+        "authorId": "owk1"
+      }
+    ]
+  }
+]
